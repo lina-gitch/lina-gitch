@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lina-gitch
 - 👀 I’m interested in web development
-- 👩‍💻I'm new developer 
+- 👩‍💻I'm a new developer 
 
 
 <!---
